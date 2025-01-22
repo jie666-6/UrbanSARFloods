@@ -77,7 +77,7 @@ For more details, check out the [GDAL Warp documentation](https://gdal.org/progr
 
 |   Continent   |             Location             |   Event Date   |          Image Size          | Absolute Orbit |   Path  | Number of NF tiles  | Number of FO tiles | Number of FU tiles |
 |--------------|----------------------------------|--------------|----------------------------|---------------|--------|------------------|------------------|------------------|
-| **North America** | Houston, US | 19 April 2016 | 17766 × 13306 | 10540 | 143 | 175 | 209 | 154 |
+| **North America** | Houston, US | 19 April 2016 | 17766 × 13306 | 10809  | 143 | 175 | 209 | 154 |
 |              | Houston, US | 30 August 2017 | 14918 × 12981 | 7169 | 143 | 274 | 323 | 129 |
 |              | Lumberton, US | 11 Oct 2016 | 9931 × 6465 | 13449 | 77 | 147 | 201 | 2 |
 |              | Sainte-Marthe-sur-le-Lac, Canada | 02 May 2019 | 21638 × 11184 | 27055 | 33 | 279 | 431 | 2 |
