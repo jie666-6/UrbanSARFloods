@@ -94,7 +94,7 @@ For more details, check out the [GDAL Warp documentation](https://gdal.org/progr
 |              | Langfang, China | 05 August 2023 | 19458 × 12220 | 49739 | 142 | 279 | 269 | 117 |
 | **Oceania**  | Coraki, Australia | 2 March 2022 | 18160 × 13358 | 42146 | 74 | 105 | 54 | 11 |
 |              | Sydney, Australia | 24 March 2021 | 19495 × 13582 | 37144 | 147 | 468 | 95 | 6 |
-|              | Sydney, Australia | 5 July 2022 | 19498 × 13584 | 43794 | 147 | 391 | 155 | 23 |
+|              | Sydney, Australia | 5 July 2022 | 19498 × 13584 | 43969 | 147 | 391 | 155 | 23 |
 |              | Port Macquarie, Australia | 19 March 2021 | 18774 × 13460 | 37071 | 74 | 124 | 89 | 26 |
 | **Europe**   | NovaKakhovka, Ukraine* | 09 June 2023 | 22596 × 12226 | 48911 | 14 | 103 | 612 | 37 |
 
