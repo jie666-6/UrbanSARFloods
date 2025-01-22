@@ -117,5 +117,24 @@ If you find this repository useful, please consider citing the following paper:
   keywords={Training;Satellites;Urban areas;Transfer learning;Sentinel-1;Land surface;Benchmark testing;Sentinel-1;flood mapping;benchmark dataset;urban flood},  
   doi={10.1109/CVPRW63382.2024.00047}  
 }
+```
+## Further Information  
 
+For a comprehensive review of urban flood mapping with satellite SAR data, we invite you to explore our recent related paper:
 
+🔗 **[Urban Flood Mapping Using Satellite Synthetic Aperture Radar Data: A review of characteristics, approaches, and datasets](https://ieeexplore.ieee.org/document/10795465)**  
+
+This paper provides an in-depth discussion on challenges, methodologies, and future directions in urban flood detection, complementing the UrbanSARFloods dataset. 
+
+```bibtex
+@ARTICLE{10795465,
+  author={Zhao, Jie and Li, Ming and Li, Yu and Matgen, Patrick and Chini, Marco},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Urban Flood Mapping Using Satellite Synthetic Aperture Radar Data: A review of characteristics, approaches, and datasets}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2-34},
+  keywords={Floods;Buildings;Urban areas;Sensors;Synthetic aperture radar;Reviews;Backscatter;Sensor phenomena and characterization;Spatial resolution;Spaceborne radar},
+  doi={10.1109/MGRS.2024.3496075}}
+```
