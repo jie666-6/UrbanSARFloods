@@ -4,6 +4,9 @@ This repo contains the dataset, explanation, and some corrections of the paper:
 [UrbanSARFloods: Sentinel-1 SLC-Based Benchmark Dataset for Urban and Open-Area Flood Mapping](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Zhao_UrbanSARFloods_Sentinel-1_SLC-Based_Benchmark_Dataset_for_Urban_and_Open-Area_Flood_CVPRW_2024_paper.pdf)  
 by Jie Zhao, Zhitong Xiong, and Xiao Xiang Zhu.
 
+This dataset release focuses on data availability. All baseline models were trained using standard segmentation pipelines implemented in the segmentation_models_pytorch (SMP) library.
+Since no customized code was developed, training scripts are not included.
+
 
 👉 Check out the [UrbanSARFloods](https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1) for details.
 
