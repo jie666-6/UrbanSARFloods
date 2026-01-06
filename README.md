@@ -19,7 +19,7 @@ Expanding this dataset and exploring transfer learning and data balancing strate
 
 
 ## Usage
-1️⃣ **Download** the training and validation dataset (**urban_sar_floods.tar.gz**) from [here](https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1), then **extract** it to `./urban_sar_floods`.  
+1️⃣ **Download** the training and validation dataset (**urban_sar_floods.tar.gz**) from [here](https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1/tree/main), then **extract** it to `./urban_sar_floods`.  
 2️⃣ The extracted dataset will be organized as follows:
 
 ```plaintext
@@ -42,7 +42,7 @@ urban_sar_floods
 ├── Train_dataset.txt   # List of training samples
 ├── Valid_dataset.txt   # List of validation samples
 ```
-3️⃣ Download the testing dataset (testing_case_256 /testing_case_orig ) from  [here](https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1) as follows:
+3️⃣ Download the testing dataset (testing_case_256 /testing_case_orig ) from [here](https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1/tree/main) as follows:
 ```plaintext
 testing_case_256  # Testing dataset (preprocessed SAR into 256×256 patches)
 ├── Event1
