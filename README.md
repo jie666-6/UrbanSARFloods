@@ -69,6 +69,31 @@ testing_case_orig  # Testing dataset (original full-size SAR and GT files)
 │   ├── SAR.tif
 │   ├── GT.tif
 ```
+4️⃣ The original Sentinel-1 Single Look Complex (SLC) data used in the UrbanSARFloods dataset are provided  [here](https://huggingface.co/datasets/S1Floodbenchmark/UrbanSARFloods_v1/tree/main/Sentinel-1_SLC_data).
+```
+Sentinel-1_SLC_data  # Original Sentinel-1 SLC data for UrbanSARFloods
+├── Event1
+│   ├── S1A_*.zip  # Pre-flood SLC acquisition
+│   ├── S1A_*.zip  # Pre-flood SLC acquisition
+│   ├── S1A_*.zip  # Post-flood SLC acquisition
+├── Event2
+│   ├── S1A_*.zip
+│   ├── S1A_*.zip
+│   ├── S1A_*.zip
+├── Event3
+│   ├── S1A_*.zip
+│   ├── S1A_*.zip
+│   ├── S1A_*.zip
+├── ...
+```
+For each flood event, the repository includes:
+1) Two pre-flood Sentinel-1 SLC acquisitions, and
+2) One post-flood Sentinel-1 SLC acquisition.
+All files are stored using their original Sentinel-1 product filenames.
+Users can directly retrieve detailed acquisition metadata, including exact sensing time, absolute orbit number, relative orbit (path), and track information, from the official ESA Sentinel-1 data hub by referencing these filenames.
+
+
+
 ### 🛠 Note: Cropping GeoTIFF Data  
 If you need to crop images in **testing_case_orig**  to a specific size or align it with another geotif file, you can use **GDAL's `gdalwarp` tool**.  
 
